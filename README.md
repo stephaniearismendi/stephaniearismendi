@@ -5,10 +5,13 @@
              
 :books:	**Second Year**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Advanced Algorithms and Data Structures_**  
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Langton Ant](https://github.com/stephaniearismendi/P5-Tabla_Hash_dispersion_abierta.git)   
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)   
 &emsp; &emsp; &emsp;:round_pushpin:	**_Operating Systems_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts](https://github.com/stephaniearismendi/sistemasoperativos)   
 &emsp; &emsp; &emsp;:round_pushpin:	**_Systems Management_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts](https://github.com/stephaniearismendi/administracion_de_sistemas)   
 :books:	**Third Year**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Artificial Intelligence_**  
+&emsp; &emsp; &emsp;:round_pushpin:	**_Security in Computer Systems_**  
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)   
+
