@@ -11,7 +11,6 @@
 &emsp; &emsp; &emsp;:round_pushpin:	**_Systems Management_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts](https://github.com/stephaniearismendi/administracion_de_sistemas)   
 :books:	**Third Year**  
-&emsp; &emsp; &emsp;:round_pushpin:	**_Artificial Intelligence_**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Security in Computer Systems_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)   
 
