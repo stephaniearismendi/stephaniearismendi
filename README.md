@@ -3,9 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)      
 
-
-:books:	**First Year**  
-             
+    
 :books:	**Second Year**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Advanced Algorithms and Data Structures_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)   
