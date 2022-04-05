@@ -1,7 +1,9 @@
 # Stephanie's Github
 ## :computer:	Student of Computer Engineering at the University of La Laguna (ULL).
 
+:chart:	**STATS**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)
 
     
 :books:	**Second Year**  
@@ -16,7 +18,6 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)   
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [ChaCha20](https://github.com/stephaniearismendi/ChaCha20)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
