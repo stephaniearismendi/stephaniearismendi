@@ -1,8 +1,9 @@
 # Stephanie's Github
 ## :computer:	Student of Computer Engineering at the University of La Laguna (ULL).
 
-:chart:	**STATS**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)      
+:chart:	**STATS**       
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)       
+        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)
 
     
