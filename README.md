@@ -1,5 +1,4 @@
-# Stephanie's Github
-## :computer:	Student of Computer Engineering at the University of La Laguna (ULL).
+# Stephanie's Github. :computer: Student of Computer Engineering at the University of La Laguna (ULL).
 
 ## :chart:	STATS.    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)       
