@@ -18,6 +18,12 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)   
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [ChaCha20](https://github.com/stephaniearismendi/ChaCha20)  
 
+:anger:	**Others**
+&emsp; &emsp; &emsp;:round_pushpin:	**_Typescript_**  
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Streaming Database](https://github.com/stephaniearismendi/Streaming-Database)   
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Multiverse Game](https://github.com/stephaniearismendi/Multiverse-game-terminal)   
+
+
 
 
 
