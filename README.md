@@ -7,11 +7,13 @@
 
     
 :books:	**Algorithms**  
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)   
-&emsp; &emsp; &emsp;:round_pushpin:	**_Operating Systems_**  
+&emsp; &emsp; &emsp;:round_pushpin:	**_C++_**  
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)
+
+:books:	**Scripts**  
+&emsp; &emsp; &emsp;:round_pushpin:	**_Shell_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts](https://github.com/stephaniearismendi/sistemasoperativos)   
-&emsp; &emsp; &emsp;:round_pushpin:	**_Systems Management_**  
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts](https://github.com/stephaniearismendi/administracion_de_sistemas)   
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Scripts (https://github.com/stephaniearismendi/administracion_de_sistemas)   
 :books:	**Cryptography**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_C++_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)   
