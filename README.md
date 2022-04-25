@@ -9,6 +9,7 @@
 :books:	**Algorithms**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_C++_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting)
 
 :books:	**Scripts**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Shell_**  
