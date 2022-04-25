@@ -21,7 +21,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [ChaCha20](https://github.com/stephaniearismendi/ChaCha20)  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [C/A GPS](https://github.com/stephaniearismendi/p4)  
 &emsp; &emsp; &emsp;:round_pushpin:	**_Python_**  
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Diffie-Hellman & ElGamal]  
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: Diffie-Hellman & ElGamal  
 
 
 :anger:	**Others**     
