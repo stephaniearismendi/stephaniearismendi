@@ -8,7 +8,7 @@
     
 :books:	**Algorithms**  
 &emsp; &emsp; &emsp;:round_pushpin:	**_C++_**  
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Hash Table](https://github.com/stephaniearismendi/TablaHash)   
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting)
 
 :books:	**Scripts**  
@@ -25,7 +25,9 @@
 :anger:	**Others**     
 &emsp; &emsp; &emsp;:round_pushpin:	**_Typescript_**  
 &emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Streaming Database](https://github.com/stephaniearismendi/Streaming-Database)   
-&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Multiverse Game](https://github.com/stephaniearismendi/Multiverse-game-terminal)   
+&emsp; &emsp; &emsp; &emsp; &emsp; :open_file_folder: [Multiverse Game](https://github.com/stephaniearismendi/Multiverse-game-terminal)    
+&emsp; &emsp; &emsp;:round_pushpin:	**_Python_**  
+
 
 
 
