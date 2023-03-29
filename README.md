@@ -83,10 +83,9 @@ This repository contains some of my personal and academic projects that I have d
   </tr> 
 </table>
 
-## Estadísticas
+<h2 align="center">Stats 📈</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi&layout=compact&theme=radical" alt="Top languages">
 </p>
-    
