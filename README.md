@@ -35,12 +35,39 @@ This repository contains some of my personal and academic projects that I have d
     </td>
   </tr>
   <tr>
+    <td>Python</td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-busqueda">Search Algorithms</a></li>
+        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-rutas">Pathfinding Algorithms</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>
+      <ul>
+        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-ordenacion">Sorting Algorithms</a></li>
+        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-busqueda-en-grafos">Graph Search Algorithms</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td rowspan="2">Scripts</td>
     <td>Shell</td>
     <td>
       <ul>
         <li><a href="https://github.com/stephaniearismendi/sistemasoperativos">List Files</a></li>
         <li><a href="https://github.com/stephaniearismendi/administracion_de_sistemas">Manage Users and Groups Script</a></li> 
+      </ul> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td>Python</td> 
+    <td> 
+      <ul> 
+        <li><a href="https://github.com/stephaniearismendi/WebScraping">Web Scraping</a></li> 
+        <li><a href="https://github.com/stephaniearismendi/Automatizacion-de-tareas-con-Python">Task Automation with Python</a></li> 
       </ul> 
     </td> 
   </tr> 
