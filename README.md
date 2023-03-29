@@ -1,5 +1,3 @@
-De acuerdo, puedo intentar hacer eso. Aquí tienes una versión en inglés de tu readme, con algunos cambios en el diseño y algunos elementos añadidos:
-
 <h1 align="center">Welcome to my GitHub profile! 👋</h1>
 
 <p align="center">
