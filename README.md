@@ -35,15 +35,6 @@ This repository contains some of my personal and academic projects that I have d
     </td>
   </tr>
   <tr>
-    <td>Python</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-busqueda">Search Algorithms</a></li>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-rutas">Pathfinding Algorithms</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
     <td rowspan="2">Scripts</td>
     <td>Shell</td>
     <td>
