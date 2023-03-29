@@ -1,4 +1,17 @@
-# :computer: Stephanie's Github.
+# Welcome to my github profile! 👋
+
+## About me
+
+- I'm a full-stack developer who loves creating innovative and scalable solutions. 💻
+- I have experience in C++, Typescript, nodejs, Python, Java and other technologies. 🚀
+- I also work with pyspark and pandas for data analysis and visualization. 📊
+- I'm studying computer engineering at the University of La Laguna. 🎓
+- I'm always eager to learn new skills and explore new challenges. 🌱
+
+## Contact me
+
+- You can reach me at stephaniearismendi17@gmail.com. 📧
+- You can also follow me on [LinkedIn](https://www.linkedin.com/in/stephanie-arismendi-escobar-125935a1/). 📱
 
 ## :chart:	STATS.    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)       
