@@ -83,9 +83,10 @@ This repository contains some of my personal and academic projects that I have d
   </tr> 
 </table>
 
-## :chart:	STATS.    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)       
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi)](https://github.com/anuraghazra/github-readme-stats)
+## Estadísticas
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi&layout=compact&theme=radical" alt="Top languages">
+</p>
     
