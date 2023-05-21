@@ -18,70 +18,15 @@
 
 This repository contains some of my personal and academic projects that I have done with different languages and tools. Here you can see some examples:
 
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Language</th>
-    <th>Projects</th>
-  </tr>
-  <tr>
-    <td rowspan="3">Algorithms</td>
-    <td>C++</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stephaniearismendi/TablaHash">Hash Table</a></li>
-        <li><a href="https://github.com/stephaniearismendi/Sorting">Sorting Algorithms</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-busqueda">Search Algorithms</a></li>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-rutas">Pathfinding Algorithms</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-ordenacion">Sorting Algorithms</a></li>
-        <li><a href="https://github.com/stephaniearismendi/Algoritmos-de-busqueda-en-grafos">Graph Search Algorithms</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="2">Scripts</td>
-    <td>Shell</td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stephaniearismendi/sistemasoperativos">List Files</a></li>
-        <li><a href="https://github.com/stephaniearismendi/administracion_de_sistemas">Manage Users and Groups Script</a></li> 
-      </ul> 
-    </td> 
-  </tr> 
-  <tr> 
-    <td>Python</td> 
-    <td> 
-      <ul> 
-        <li><a href="https://github.com/stephaniearismendi/WebScraping">Web Scraping</a></li> 
-        <li><a href="https://github.com/stephaniearismendi/Automatizacion-de-tareas-con-Python">Task Automation with Python</a></li> 
-      </ul> 
-    </td> 
-  </tr> 
-  <tr> 
-    <td>Cryptography</td> 
-    <td>C++</td> 
-    <td> 
-      <ul> 
-        <li><a href="https://github.com/stephaniearismendi/RC4-SSI">RC4 Cipher</a></li> 
-        <li><a href="https://github.com/stephaniearismendi/ChaCha20">ChaCha20 Cipher</a></li> 
-      </ul> 
-    </td> 
-  </tr> 
-</table>
+| Category     | Language | Projects                                    |
+|--------------|----------|---------------------------------------------|
+| Algorithms   | C++      | - [Hash Table](https://github.com/stephaniearismendi/TablaHash)<br>- [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting) |
+| Algorithms   | Python   | - [Search Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-busqueda)<br>- [Pathfinding Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-rutas) |
+| Algorithms   | Java     | - [Sorting Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-ordenacion)<br>- [Graph Search Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-busqueda-en-grafos) |
+| Scripts      | Shell    | - [List Files](https://github.com/stephaniearismendi/sistemasoperativos)<br>- [Manage Users and Groups Script](https://github.com/stephaniearismendi/administracion_de_sistemas) |
+| Scripts      | Python   | - [Web Scraping](https://github.com/stephaniearismendi/WebScraping)<br>- [Task Automation with Python](https://github.com/stephaniearismendi/Automatizacion-de-tareas-con-Python) |
+| Cryptography | C++      | - [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)<br>- [ChaCha20 Cipher](https://github.com/stephaniearismendi/ChaCha20) |
+
 
 <h2 align="center">Stats 📈</h2>
 
