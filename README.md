@@ -18,14 +18,16 @@
 
 This repository contains some of my personal and academic projects that I have done with different languages and tools. Here you can see some examples:
 
-| Category     | Language | Projects                                    |
-|--------------|----------|---------------------------------------------|
-| Algorithms   | C++      | - [Hash Table](https://github.com/stephaniearismendi/TablaHash)<br>- [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting) |
-| Algorithms   | Python   | - [Search Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-busqueda)<br>- [Pathfinding Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-rutas) |
-| Algorithms   | Java     | - [Sorting Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-ordenacion)<br>- [Graph Search Algorithms](https://github.com/stephaniearismendi/Algoritmos-de-busqueda-en-grafos) |
-| Scripts      | Shell    | - [List Files](https://github.com/stephaniearismendi/sistemasoperativos)<br>- [Manage Users and Groups Script](https://github.com/stephaniearismendi/administracion_de_sistemas) |
-| Scripts      | Python   | - [Web Scraping](https://github.com/stephaniearismendi/WebScraping)<br>- [Task Automation with Python](https://github.com/stephaniearismendi/Automatizacion-de-tareas-con-Python) |
-| Cryptography | C++      | - [RC4 Cipher](https://github.com/stephaniearismendi/RC4-SSI)<br>- [ChaCha20 Cipher](https://github.com/stephaniearismendi/ChaCha20) |
+| Category      | Language | Projects                                                                             |
+|---------------|----------|--------------------------------------------------------------------------------------|
+| Algorithms    | C++      | - [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting)<br>- [Hash Tables](https://github.com/stephaniearismendi/TablaHash) |
+| Cryptography  | Python   | - [ElGamal-DH](https://github.com/stephaniearismendi/ElGamal-DH)                     |
+| Cryptography  | C++      | - [ChaCha20](https://github.com/stephaniearismendi/ChaCha20)<br>- [RC4](https://github.com/stephaniearismendi/RC4-SSI)               |
+| Projects      | React.js | - [Alexa Skill Movies](https://github.com/stephaniearismendi/Alexa-Skill-Movies)     |
+| Projects      | Node.js  | - [Streaming Database](https://github.com/stephaniearismendi/Streaming-Database)     |
+| Projects      | React Native | - [Hair Salon App](https://github.com/stephaniearismendi/app-peluqueria)             |
+| Projects      | React    | - [To-Do List](https://github.com/stephaniearismendi/react-to-do-list)               |
+
 
 
 <h2 align="center">Stats 📈</h2>
