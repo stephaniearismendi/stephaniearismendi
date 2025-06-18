@@ -23,7 +23,7 @@ This repository contains some of my personal and academic projects that I have d
 | Algorithms    | C++      | - [Sorting Algorithms](https://github.com/stephaniearismendi/Sorting)<br>- [Hash Tables](https://github.com/stephaniearismendi/TablaHash) |
 | Cryptography  | Python   | - [ElGamal-DH](https://github.com/stephaniearismendi/ElGamal-DH)                     |
 | Cryptography  | C++      | - [ChaCha20](https://github.com/stephaniearismendi/ChaCha20)<br>- [RC4](https://github.com/stephaniearismendi/RC4-SSI)               |
-| Projects      | React.js | - [Alexa Skill Movies](https://github.com/stephaniearismendi/Alexa-Skill-Movies)     |
+| Projects      | Javascript | - [Alexa Skill Movies](https://github.com/stephaniearismendi/Alexa-Skill-Movies)     |
 | Projects      | Node.js  | - [Streaming Database](https://github.com/stephaniearismendi/Streaming-Database)     |
 | Projects      | React Native | - [Hair Salon App](https://github.com/stephaniearismendi/app-peluqueria)             |
 | Projects      | React    | - [To-Do List](https://github.com/stephaniearismendi/react-to-do-list)               |
