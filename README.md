@@ -98,7 +98,7 @@ Projects focused on implementing and understanding fundamental computer science 
 
 <p align="center">
   <a href="https://github.com/stephaniearismendi">
-    <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Stephanie's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Stephanie's GitHub stats" />
   </a>
   <a href="https://github.com/stephaniearismendi">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stephaniearismendi&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
