@@ -18,7 +18,7 @@
 
 ## About me
 
-I'm a **Software Engineer** with experience in backend development, event-driven architectures and online payment processing. I currently work as a **Software Engineer Analyst at Getnet Platforms**, where I support the development and maintenance of microservices that process payment events in real time.
+I'm a **Software Engineer** with experience in backend development, event-driven architectures and online payment processing. I currently work as a **Software Engineer Analyst**, where I support the development and maintenance of microservices that process payment events in real time.
 
 My professional experience includes working with Java and Spring Boot, Kafka-based messaging, Elasticsearch, Kubernetes and automated testing. I also have a background in data engineering and business intelligence, using Python, PySpark, SAS and MicroStrategy to process data and create analytical solutions.
 
@@ -28,44 +28,6 @@ My professional experience includes working with Java and Spring Boot, Kafka-bas
 - 🧪 Interested in automated, integration, performance and end-to-end testing.
 - 📊 Experienced in data processing, analytics and business intelligence.
 - 🧩 Committed to writing maintainable code and continuously improving systems.
-
-## Professional experience
-
-### Software Engineer Analyst — Getnet Platforms
-
-**September 2024 — Present · Madrid, Spain · Hybrid**
-
-- Support the development and maintenance of event-driven microservices for online payment processing.
-- Work daily with Kafka for real-time event streaming and message brokering between payment services.
-- Maintain and optimize Elasticsearch indexes for fast payment data querying and aggregation.
-- Support the design and deployment of microservices using Java and Spring Boot.
-- Implement and execute end-to-end tests using Node.js.
-
-**Technologies:** Java · Spring Boot · Kafka · Elasticsearch · Kubernetes · Concourse CI · GitHub Actions · Node.js
-
-### Junior Backend Developer — Plexus Tech
-
-**August 2023 — September 2024 · Madrid, Spain · Remote**
-
-Worked with Getnet Platforms, a Santander company, on backend development and the design, maintenance and testing of microservices.
-
-- Developed and maintained backend microservices.
-- Implemented integration tests and performance tests with Gatling.
-- Worked with event streaming and search technologies in payment-related systems.
-
-**Technologies:** Java · Spring · Kafka · Elasticsearch · Kibana · Gatling · Git
-
-### Data & Digital Strategy Intern — BBVA Asset Management
-
-**February 2023 — July 2023 · Madrid, Spain · Hybrid**
-
-- Supported ongoing projects and the maintenance and upgrade of completed solutions.
-- Uploaded investment funds data daily using SAS.
-- Maintained and extracted data from the AM-Product Catalog database.
-- Recreated SAS processes in Python for the DATIO platform.
-- Designed and developed business intelligence dashboards in MicroStrategy.
-
-**Technologies:** Python · PySpark · SAS · MicroStrategy · Markit EDM
 
 ## Featured projects
 
