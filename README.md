@@ -123,7 +123,6 @@ Projects focused on implementing and understanding fundamental computer science 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Kibana / Elasticsearch">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
@@ -136,6 +135,10 @@ Projects focused on implementing and understanding fundamental computer science 
 4. **Improve continuously** — document decisions and look for opportunities to make systems more reliable and efficient.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=transparent&hide_border=true" alt="Stephanie's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
+  <a href="https://github.com/stephaniearismendi">
+    <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="Stephanie's GitHub stats" />
+  </a>
+  <a href="https://github.com/stephaniearismendi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniearismendi&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  </a>
 </p>
