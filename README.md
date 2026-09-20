@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Stephanie Arismendi 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Computer Engineering Student · Problem Solver</strong>
+  <strong>Software Engineer · Backend Developer · Distributed Systems Enthusiast</strong>
 </p>
 
 <p align="center">
-  I build practical software products, APIs and data-driven solutions with a focus on clean code, maintainability and continuous learning.
+  I build and maintain reliable backend systems, event-driven microservices and data-oriented solutions.
 </p>
 
 <p align="center">
@@ -18,23 +18,54 @@
 
 ## About me
 
-I'm a full-stack developer and Computer Engineering student at the **University of La Laguna**. I enjoy turning ideas into useful, reliable software—from web applications and backend services to algorithms, cryptography and data analysis projects.
+I'm a **Software Engineer** with experience in backend development, event-driven architectures and online payment processing. I currently work as a **Software Engineer Analyst at Getnet Platforms**, where I support the development and maintenance of microservices that process payment events in real time.
 
-I'm currently open to **freelance work, project-based collaborations and junior software development opportunities** where I can contribute, learn quickly and deliver measurable value.
+My professional experience includes working with Java and Spring Boot, Kafka-based messaging, Elasticsearch, Kubernetes and automated testing. I also have a background in data engineering and business intelligence, using Python, PySpark, SAS and MicroStrategy to process data and create analytical solutions.
 
-- 🧩 I enjoy working across frontend, backend and software architecture.
-- 🚀 I like building clear, maintainable solutions from requirements to implementation.
-- 📊 I have experience exploring and processing data with Python, Pandas and PySpark.
-- 🔐 I'm interested in algorithms, cybersecurity and practical applications of computer science.
-- 🌱 I continuously improve my skills through personal, academic and collaborative projects.
+- ⚙️ Focused on backend development and distributed systems.
+- 💳 Experienced in software for online payment processing.
+- 🔄 Comfortable working with event-driven microservices and real-time data flows.
+- 🧪 Interested in automated, integration, performance and end-to-end testing.
+- 📊 Experienced in data processing, analytics and business intelligence.
+- 🧩 Committed to writing maintainable code and continuously improving systems.
 
-## What I can help with
+## Professional experience
 
-- **Web applications:** React, React Native and responsive user interfaces.
-- **Backend development:** Node.js, JavaScript/TypeScript and API-oriented applications.
-- **Data-oriented solutions:** Python, Pandas, PySpark and data exploration.
-- **Algorithms and systems:** C++, data structures, operating systems and problem solving.
-- **Technical prototypes:** turning an idea into a working proof of concept with organized, documented code.
+### Software Engineer Analyst — Getnet Platforms
+
+**September 2024 — Present · Madrid, Spain · Hybrid**
+
+- Support the development and maintenance of event-driven microservices for online payment processing.
+- Work daily with Kafka for real-time event streaming and message brokering between payment services.
+- Maintain and optimize Elasticsearch indexes for fast payment data querying and aggregation.
+- Support the design and deployment of microservices using Java and Spring Boot.
+- Implement and execute end-to-end tests using Node.js.
+
+**Technologies:** Java · Spring Boot · Kafka · Elasticsearch · Kubernetes · Concourse CI · GitHub Actions · Node.js
+
+### Junior Backend Developer — Plexus Tech
+
+**August 2023 — September 2024 · Madrid, Spain · Remote**
+
+Worked with Getnet Platforms, a Santander company, on backend development and the design, maintenance and testing of microservices.
+
+- Developed and maintained backend microservices.
+- Implemented integration tests and performance tests with Gatling.
+- Worked with event streaming and search technologies in payment-related systems.
+
+**Technologies:** Java · Spring · Kafka · Elasticsearch · Kibana · Gatling · Git
+
+### Data & Digital Strategy Intern — BBVA Asset Management
+
+**February 2023 — July 2023 · Madrid, Spain · Hybrid**
+
+- Supported ongoing projects and the maintenance and upgrade of completed solutions.
+- Uploaded investment funds data daily using SAS.
+- Maintained and extracted data from the AM-Product Catalog database.
+- Recreated SAS processes in Python for the DATIO platform.
+- Designed and developed business intelligence dashboards in MicroStrategy.
+
+**Technologies:** Python · PySpark · SAS · MicroStrategy · Markit EDM
 
 ## Featured projects
 
@@ -82,28 +113,27 @@ Projects focused on implementing and understanding fundamental computer science 
 ## Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Kibana / Elasticsearch">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ## How I work
 
-1. **Understand the goal** — clarify the problem, users and expected outcome.
-2. **Plan the solution** — break the work into small, deliverable increments.
-3. **Build and iterate** — write maintainable code and validate assumptions early.
-4. **Document and improve** — leave the project easier to understand and maintain.
-
-## Let's work together
-
-Do you have an idea, a feature to build or a project that needs technical support? Feel free to reach out through [GitHub](https://github.com/stephaniearismendi). I'm interested in collaborating on web applications, backend services, data projects and software prototypes.
+1. **Understand the system** — learn the business context, architecture and expected behavior.
+2. **Design practical solutions** — break complex problems into clear, maintainable components.
+3. **Build and validate** — implement, test and monitor changes throughout the development process.
+4. **Improve continuously** — document decisions and look for opportunities to make systems more reliable and efficient.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stephaniearismendi&show_icons=true&theme=transparent&hide_border=true" alt="Stephanie's GitHub stats">
