@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stephanie Arismendi 👋</h1>
+<h1 align="center">Hi, I'm Stephanie 👋</h1>
 
 <p align="center">
   <strong>Software Engineer · Backend Developer · Distributed Systems Enthusiast</strong>
@@ -88,13 +88,6 @@ Projects focused on implementing and understanding fundamental computer science 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
-## How I work
-
-1. **Understand the system** — learn the business context, architecture and expected behavior.
-2. **Design practical solutions** — break complex problems into clear, maintainable components.
-3. **Build and validate** — implement, test and monitor changes throughout the development process.
-4. **Improve continuously** — document decisions and look for opportunities to make systems more reliable and efficient.
 
 <p align="center">
   <a href="https://github.com/stephaniearismendi">
